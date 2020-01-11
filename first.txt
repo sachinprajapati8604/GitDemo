@@ -1,1 +1,6 @@
 This is version 1 of my website
+git add --a    //
+
+git commit -m "Intial Commit"
+
+git log
