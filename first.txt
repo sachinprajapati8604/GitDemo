@@ -28,3 +28,6 @@ touch gitignore 	//to ignore .log file
 git diff 	//compare current working directort to stage directory
 
 git diff staged 	//to compare previous commit before current working stage
+
+
+git commit -a -m "Direct Commmit"	//to for commit only stage area files.
