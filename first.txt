@@ -8,10 +8,23 @@ git add --a    // to add all the files in statging area
 
 git commit -m "Intial Commit"  //saving
 
+git add first.txt 	//commited first.txt file
+
+git commit -m "This is modified myexcel" // to give a comment in git log .
+
 git log  //view record
 
 
 rm -rf.git //for delete git repository
   
 
-git clone https://github.com/schollz/python-ocr.git   	//to cloning a project from github url
+ git clone https://github.com/schollz/python-ocr.git   	//to cloning a project from github 
+url
+
+
+touch gitignore 	//to ignore .log file
+
+
+git diff 	//compare current working directort to stage directory
+
+git diff staged 	//to compare previous commit before current working stage
